@@ -5,8 +5,10 @@ General information:
 - If there is data to differentiate different genres in novels from each other, it might help to compute and assign genres for novels using a program. This could be helpful in bookstores to categorize books more easily. It could also be helpful for selling books, where using a customer's preferences a new book can be recommended based on the genres of books. Genres can differ, even among the same genre, there are fast differences. If it becomes possible to calculate scores for different genres or among a genre, customer's could find books more closely related to what they prefer. Creating a greater understanding of differences between genres in novels.
 
 Background information:
-- Selamat, Ali, and Nicholas Akosu. "Word-length algorithm for language identification of under-resourced languages." Journal of King Saud University-Computer and Information Sciences 28.4 (2016): 457-469.
-- Worsham, Joseph, and Jugal Kalita. "Genre identification and the compositional effect of genre in literature." Proceedings of the 27th international conference on computational linguistics. 2018.
+- Selamat, A., & Akosu, N. (2016). Word-length algorithm for language identification of under-resourced languages. Journal of King Saud University-Computer and Information Sciences, 28(4), 457-469.
+  - https://www.sciencedirect.com/science/article/pii/S1319157815000609
+- Worsham, J., & Kalita, J. (2018, August). Genre identification and the compositional effect of genre in literature. In Proceedings of the 27th international conference on computational linguistics (pp. 1963-1973).
+  - https://aclanthology.org/C18-1167.pdf
 
 Research question and hypotheses:
 - Research Question:
