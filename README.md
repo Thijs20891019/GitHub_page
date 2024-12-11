@@ -1,6 +1,3 @@
-# GitHub_page
-A testing ground to learn more about GitHub
-
 <Introduction to research methods, Milestone 5>
 
 General information:
