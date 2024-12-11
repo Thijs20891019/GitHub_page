@@ -10,7 +10,7 @@ Background information:
 
 Research question and hypotheses:
 - Research Question:
-  - Is there a difference in the frequence of [unique words found in fantasy novels that are not found in romance novels] and [unique words found in romance novels that are not found in fantasy novels]?
+  - What is the frequency of [unique words found in fantasy novels that are not found in romance novels] and [unique words found in romance novels that are not found in fantasy novels]?
 - Hypothesis:
   - There is a difference in the frequence of [unique words found in fantasy novels that are not found in romance novels] and [unique words found in romance novels that are not found in fantasy novels].
 
