@@ -17,5 +17,5 @@ Research question and hypotheses:
 
 Method:
 - Independent variables: Romance novels & Fantasy novels
-- Dependent variables: Frequency of unique words: <found in romance novels and not in fantacy novels>, <found in fantacy novels and not in romance novels>
+- Dependent variables: Frequency of unique words: [found in romance novels and not in fantacy novels], [found in fantacy novels and not in romance novels]
 - Gutenberg Dataset
