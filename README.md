@@ -12,8 +12,10 @@ Background information:
 - Worsham, Joseph, and Jugal Kalita. "Genre identification and the compositional effect of genre in literature." Proceedings of the 27th international conference on computational linguistics. 2018.
 
 Research question and hypotheses:
-- Research Question: Comparing Romance novels and fantasy novels, how many words in novels are only seen in one and not the other genre?
-- Hypothesis: There are certain words found in fantasy novels or romance novels that are not found in the other genre.
+- Research Question:
+  - Comparing Romance novels and fantasy novels, how many words in novels are only seen in one and not the other genre?
+- Hypothesis:
+  - There is a difference in unique words found in fantasy novels that are not found in romance novels and unique words found in romance novels that are not found in fantasy novels.
 
 Method:
 - Independent variables:
