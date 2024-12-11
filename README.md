@@ -15,7 +15,7 @@ Research question and hypotheses:
 - Research Question:
   - Comparing Romance novels and fantasy novels, how many words in novels are only seen in one and not the other genre?
 - Hypothesis:
-  - There is a difference in the frequence of unique words found in fantasy novels that are not found in romance novels and unique words found in romance novels that are not found in fantasy novels.
+  - There is a difference in the frequence of [unique words found in fantasy novels that are not found in romance novels] and [unique words found in romance novels that are not found in fantasy novels]
 
 Method:
 - Independent variables:
