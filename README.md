@@ -19,5 +19,5 @@ Method:
   - [Romance novels], [Fantasy novels]
 - Dependent variables:
   - Number of unique words found:
-    - [in romance novels and not in fantacy novels], [in fantacy novels and not in romance novels]
+    - [in romance novels and not in fantasy novels], [in fantasy novels and not in romance novels]
 - Gutenberg Dataset
