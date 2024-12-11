@@ -16,7 +16,8 @@ Research question and hypotheses:
 - Hypothesis: There are certain words found in fantasy novels or romance novels that are not found in the other genre.
 
 Method:
-- Independent variables: Romance novels & Fantasy novels
+- Independent variables:
+  - [Romance novels], [Fantasy novels]
 - Dependent variables:
   - Frequency of unique words: [found in romance novels and not in fantacy novels], [found in fantacy novels and not in romance novels]
 - Gutenberg Dataset
